@@ -1,2 +1,2 @@
-# Parallel-Wireless-
-Developed by html CSS and JavaScript
+# Parallel-Wireless
+Html CSS and JavaScript Website Developed by Smrati Singh
